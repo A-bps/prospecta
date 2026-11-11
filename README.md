@@ -124,4 +124,4 @@ Opcional (avançado): `vps/` tem scripts para rodar só a verificação num serv
 
 Motor de captura: [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper) (MIT). Mapas: © colaboradores do OpenStreetMap.
 
-Licença: ainda não definida.
+Licença: [MIT](LICENSE).
