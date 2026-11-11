@@ -1,0 +1,15 @@
+# Chaves e segredos: NUNCA subir
+chave-serper.txt
+chaves-email.txt
+verificador-remoto.txt
+*.key
+.env
+
+# Pacotes e dados
+*.zip
+node_modules/
+dados/
+leads*.json
+leads*.csv
+prospecta-*.xlsx
+prospecta-backup-*.json
